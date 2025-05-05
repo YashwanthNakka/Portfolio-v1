@@ -35,8 +35,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I am a passionate developer interested in building modern web applications and solving complex problems through code. I'm recent graduate 
-          from BITS Pilani, Pilani Campus , India . I'm open to any job positions and internships in the field of software development.
+          I am a passionate developer interested in building modern web applications and solving complex problems through code. Iam recent graduate 
+          from BITS Pilani, Pilani Campus , India . Iam open to any job positions and internships in the field of software development.
            Welcome to my portfolio!
           </p>
           <div>
